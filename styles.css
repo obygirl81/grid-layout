@@ -2,3 +2,20 @@
 background-color: blueviolet;
 border: 5px  solid black;
 }
+
+.footer {
+    background-color: cyan;
+    border: 5px solid red;
+}
+
+.col1 {
+    background-color: darkorange;
+}
+
+.col2 {
+    background-color: silver;
+}
+
+.col3 {
+    background-color: steelblue;
+}
